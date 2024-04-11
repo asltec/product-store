@@ -1,8 +1,16 @@
 {
-    "products":[
-        {
-            "id" : "1",
-            "title" : "Produto de Teste"
-        }
-    ]
+  "products": [
+    {
+      "id": "1",
+      "title": "Produto de Teste"
+    },
+    {
+      "id": "7f4f",
+      "title": "Adauto Lucas"
+    },
+    {
+      "id": "7a3b",
+      "title": "Lucas"
+    }
+  ]
 }
